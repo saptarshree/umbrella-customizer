@@ -54,7 +54,7 @@ body {
   height: 20px;
   background-size: contain;
   background-repeat: no-repeat;
-  position: absolute;
+  position: fixed;
   bottom: 200px;
   left: 34.5%;
   transform: translateX(-50%);
